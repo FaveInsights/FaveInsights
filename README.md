@@ -1,3 +1,10 @@
+<h1 align="center">Hi 
+I'm Favour 😊</h1> 
+
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=BBBBBB&width=435&lines=Data+Analyst." alt="Typing SVG" /></a>
+</h1>
+
 - 👋 Hi, I’m @FaveInsights
 - 👀 I’m an insight driven data analyst with a passion for converting raw data into aesthetically pleasing representations that inform and inspire decision making.
 - 🌱 I’m currently learning SQL
