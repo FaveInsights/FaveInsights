@@ -9,10 +9,10 @@ I'm Favour 😊</h1>
      <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952e60d84a135a3bc152d07b68121d0652611681c3b&rid=giphy.gif&ct=g" width="100%"/>
 </div> 
 <div width="350">
-- 👀 Documenting my Data journey <br />
-- ⚡️ I’m currently learning SQL  <br />
-- 💞️ I’m looking to collaborate on Data projects  <br />
-- 💼 Reach me on Twitter @FaveInsights  <br />
+• 👀 Documenting my Data journey <br />
+• ⚡️ I’m currently learning SQL  <br />
+• 💞️ I’m looking to collaborate on Data projects  <br />
+• 💼 Reach me on Twitter @FaveInsights  <br />
 </div>
 <!---
 FaveInsights/FaveInsights is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
