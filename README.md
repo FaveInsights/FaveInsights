@@ -12,6 +12,7 @@ I'm Favour 😊</h1>
 • 👀 Documenting my Data journey <br />
 • ⚡️ I’m currently learning SQL  <br />
 • 💞️ I’m looking to collaborate on Data projects  <br />
+ 
 • 💼 Reach me on Twitter @FaveInsights  <br />
 </div>
 <!---
